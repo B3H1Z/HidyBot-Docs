@@ -18,7 +18,7 @@ has_children: true
 
     <br>
     <img src="assets/images/installation/installation-1.png" alt="Your Image" class="centered">
-    
+
     <br>
     <b>راه‌اندازی ربات:</b>
     <p>روی دکمه "راه‌اندازی ربات" کلیک کرده و کد لایسنس خریداری شده را وارد کنید.</p>
@@ -27,7 +27,7 @@ has_children: true
     <b>وارد کردن اطلاعات مورد نیاز:</b>
     <p>پس از وارد کردن کد لایسنس، ربات از شما اطلاعات زیر را درخواست می‌کند:</p>
 
-    <ul>
+    <ol>
         <li><strong>توکن ربات مدیریت (ادمین):</strong><br>
         مثال: ABCdEfGhIjKlMnOpQrStUvWxYz1234567890</li>
 
@@ -38,7 +38,7 @@ has_children: true
         مثال: 123456789<br>
         در صورتی که ربات شما دارای چندین مدیر می‌باشد می‌توانید آیدی عددی آنها را مانند مثال زیر جدا کنید.<br>
         مثال: 123456789,12131415</li>
-    </ul>
+    </ol>
 
 
     <img src="assets/images/installation/installation-2.png" alt="Your Image" class="centered">
