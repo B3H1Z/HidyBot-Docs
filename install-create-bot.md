@@ -14,7 +14,7 @@ parent: Installation
 <br>
 <b>جهت ساخت ربات و دریافت توکن آن بایستی از طریق ربات BotFather اقدام کنید</b>
 
-<ol>
+<ul>
     <li>دستور /start را ارسال کنید</li>
     <li>دستور /newbot را وارد کنید</li>
     <li>یک نام دلخواه برای ربات خود انتخاب کنید</li>
@@ -23,7 +23,7 @@ parent: Installation
     <br>
     (مثال bestshopbot یا bestshop_bot)
     </li>
-</ol>
+</ul>
 <br>
 <img src="assets/images/installation/installation-bot-1.png" alt="Your Image" class="centered">
 </div>
