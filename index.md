@@ -3,9 +3,9 @@ title: Home
 layout: home
 nav_order: 1
 ---
-<h1 dir="rtl">
-# هیدی بات
-</h1>
+<pre dir="rtl">
+هیدی بات
+</pre>
 <p dir="rtl">
 راهنمای ربات هیدی بات
 </p>
