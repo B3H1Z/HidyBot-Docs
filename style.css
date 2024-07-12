@@ -11,6 +11,10 @@
 	font-style: normal;
 }
 
+html {
+	font-family: 'Yekan', sans-serif;
+}
+
 .centered {
 	display: block;
 	margin-left: auto;
@@ -19,6 +23,11 @@
 }
 
 p{
-  font-family: 'Yekan', sans-serif;
+  /* font-family: 'Yekan', sans-serif; */
   direction: rtl;
+}
+
+ul {
+	list-style-type: none; /* Removes default bullets */
+	padding-left: 0; /* Optional: Remove default left padding */
 }
