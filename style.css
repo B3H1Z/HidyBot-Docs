@@ -43,6 +43,9 @@ ul li {
 }
 
 .main-content ul > li::before{
-	/* display:none !important;  */
-	padding-right: 10vh;
+	display:none !important; 
 	}
+
+.main-content ul {
+	list-style: disc !important;
+}
