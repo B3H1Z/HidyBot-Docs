@@ -1,3 +1,17 @@
-p {
-  color: red;
+/* downloaded from https://rokaweb.ir */
+@font-face {
+	font-family: 'Yekan';
+	src: url( 'assets/fonts/Yekan.eot' );
+	src: url( 'assets/fonts/Yekan.eot?#iefix' ) format( 'embedded-opentype' ),
+		url( 'assets/fonts/Yekan.woff2' ) format( 'woff2' ),
+		url( 'assets/fonts/Yekan.woff' ) format( 'woff' ),
+		url( 'assets/fonts/Yekan.ttf' ) format( 'truetype' ),
+		url( 'assets/fonts/Yekan.svg#Yekan' ) format( 'svg' );
+	font-weight: normal;
+	font-style: normal;
+}
+
+html{
+  font-family: 'Yekan', sans-serif;
+  direction: rtl;
 }
