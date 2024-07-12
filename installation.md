@@ -3,6 +3,10 @@ title: Installation
 layout: default
 nav_order: 2
 ---
+
+{: .note }
+TEST LORM
+
 <head>
     <meta charset="utf-8">
     <link rel="stylesheet" href="style.css">
@@ -34,9 +38,7 @@ nav_order: 2
         در صورتی که ربات شما دارای چندین مدیر می‌باشد می‌توانید آیدی عددی آنها را مانند مثال زیر جدا کنید.<br>
         مثال: 123456789,12131415</li>
     </ul>
-    
-    {: .note }
-    تست لورم
+
 
     <img src="assets/images/installation/installation-2.png" alt="Your Image" class="centered">
 
