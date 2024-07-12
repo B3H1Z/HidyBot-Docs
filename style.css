@@ -42,6 +42,7 @@ ul li {
 	margin-bottom: 5px; /* Optional: Add margin between items */
 }
 
-/* .main-content ul > li::before{
-	display:none !important; 
-	} */
+.main-content ul > li::before{
+	/* display:none !important;  */
+	padding-right: 10vh;
+	}
