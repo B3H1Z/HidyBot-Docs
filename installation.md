@@ -3,6 +3,7 @@ title: Installation
 layout: default
 nav_order: 2
 ---
+{% include style.css %}
 <p dir="rtl">
 
     <p>برای راه‌اندازی و مدیریت ربات تلگرام با استفاده از لایسنس خریداری شده، مراحل زیر را دنبال کنید:</p>
