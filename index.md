@@ -1,5 +1,5 @@
 ---
-title: Home
+title: خانه
 layout: home
 ---
 
