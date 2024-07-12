@@ -14,17 +14,17 @@ has_children: true
     <h3>برای راه‌اندازی و مدیریت ربات تلگرام با استفاده از لایسنس خریداری شده، مراحل زیر را دنبال کنید</h3>
     <br>
     <b>خرید لایسنس:</b>
-    <br>
     <p>ابتدا وارد ربات مدیریت لایسنس شوید و با استفاده از دکمه "خرید ربات"، لایسنس خود را خریداری کنید.</p>
 
-    <img src="assets/images/installation/installation-1.png" alt="Your Image" class="centered">
-
-    <b>راه‌اندازی ربات:</b>
     <br>
+    <img src="assets/images/installation/installation-1.png" alt="Your Image" class="centered">
+    
+    <br>
+    <b>راه‌اندازی ربات:</b>
     <p>روی دکمه "راه‌اندازی ربات" کلیک کرده و کد لایسنس خریداری شده را وارد کنید.</p>
 
-    <b>وارد کردن اطلاعات مورد نیاز:</b>
     <br>
+    <b>وارد کردن اطلاعات مورد نیاز:</b>
     <p>پس از وارد کردن کد لایسنس، ربات از شما اطلاعات زیر را درخواست می‌کند:</p>
 
     <ul>
@@ -42,8 +42,7 @@ has_children: true
 
 
     <img src="assets/images/installation/installation-2.png" alt="Your Image" class="centered">
-
-    <b>اتمام عملیات:</b>
     <br>
+    <b>اتمام عملیات:</b>
     <p>پس از وارد کردن اطلاعات و مشاهده پیام موفقیت‌آمیز بودن عملیات، ربات شما با موفقیت راه‌اندازی شده است.</p>
 </div>
