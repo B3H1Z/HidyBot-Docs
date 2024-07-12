@@ -2,26 +2,8 @@
 title: Installation
 layout: default
 nav_order: 2
-dir: rtl
 ---
-
-        body {
-            font-family: Tahoma, Arial, sans-serif;
-            direction: rtl;
-            line-height: 1.6;
-            margin: 20px;
-            padding: 0;
-        }
-        p {
-            margin-bottom: 10px;
-            text-align: justify;
-        }
-        .highlight {
-            background-color: #f0f0f0;
-            padding: 5px;
-            border-radius: 5px;
-        }
-
+<p dir="rtl">
 
     <p>برای راه‌اندازی و مدیریت ربات تلگرام با استفاده از لایسنس خریداری شده، مراحل زیر را دنبال کنید:</p>
 
@@ -52,3 +34,4 @@ dir: rtl
 
     <p>تکمیل عملیات:<br>
     پس از وارد کردن اطلاعات و مشاهده پیام موفقیت‌آمیز بودن عملیات، ربات شما با موفقیت راه‌اندازی شده است.</p>
+</p>
