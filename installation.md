@@ -14,6 +14,8 @@ nav_order: 2
     <p>خرید لایسنس:<br>
     ابتدا وارد ربات مدیریت لایسنس شوید و با استفاده از دکمه "خرید ربات"، لایسنس خود را خریداری کنید.</p>
 
+    <img src="assets/images/installation/installation-1.png" alt="Your Image" class="centered">
+
     <p>کپی کردن کد لایسنس:<br>
     کد لایسنس دریافت شده را کپی کنید.</p>
 
@@ -25,14 +27,14 @@ nav_order: 2
 
     <ul>
         <li><strong>توکن ربات مدیریت (ادمین):</strong><br>
-        مثال::ABCdEfGhIjKlMnOpQrStUvWxYz1234567890</li>
+        مثال: ABCdEfGhIjKlMnOpQrStUvWxYz1234567890</li>
 
         <li><strong>توکن ربات کاربران:</strong><br>
-        مثال::ABCdEfGhIjKlMnOpQrStUvWxYz1234567890</li>
+        مثال: ABCdEfGhIjKlMnOpQrStUvWxYz1234567890</li>
         
         <li><strong>آیدی عددی مدیر یا مدیران:</strong><br>
         مثال: 123456789<br>
-        در صورتی که ربات شما دارای چندین مدیر می‌باشد می‌توانید آیدی عددی آنها را با استفاده از کاراکتر, جدا کرده و پشت سر هم وارد کنید.<br>
+        در صورتی که ربات شما دارای چندین مدیر می‌باشد می‌توانید آیدی عددی آنها را مانند مثال زیر جدا کنید.<br>
         مثال: 123456789,12131415</li>
     </ul>
 
