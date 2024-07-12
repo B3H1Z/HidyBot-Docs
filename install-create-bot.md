@@ -27,5 +27,4 @@ parent: Installation
 <br>
 <img src="assets/images/installation/installation-bot-1.png" alt="Your Image" class="centered">
 </div>
-<br>
 <p>حالا ربات شما ساخته شده. توکن ربات جدید شما در پیام دریافتی موجود است.</p>
