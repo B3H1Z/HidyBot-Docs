@@ -38,6 +38,8 @@ nav_order: 2
         مثال: 123456789,12131415</li>
     </ul>
 
+    <img src="assets/images/installation/installation-2.png" alt="Your Image" class="centered">
+
     <p>تکمیل عملیات:<br>
     پس از وارد کردن اطلاعات و مشاهده پیام موفقیت‌آمیز بودن عملیات، ربات شما با موفقیت راه‌اندازی شده است.</p>
 </div>
