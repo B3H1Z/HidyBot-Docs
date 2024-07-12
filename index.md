@@ -1,6 +1,9 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 
-HidyBotPro
+# هیدی بات
+
+راهنمای ربات هیدی بات
