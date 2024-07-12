@@ -1,6 +1,6 @@
 ---
 title: Create Bot
 layout: default
-nav_order: 1
-grand_parent: Install
+nav_order: 2
+parent: Installation
 ---
