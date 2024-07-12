@@ -31,3 +31,7 @@ ul {
 	list-style-type: none; /* Removes default bullets */
 	padding-left: 0; /* Optional: Remove default left padding */
 }
+
+ul.custom-list li {
+	margin-bottom: 5px; /* Optional: Add margin between items */
+}
