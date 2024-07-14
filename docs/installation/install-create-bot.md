@@ -1,8 +1,8 @@
 ---
 title: Create Bot
 layout: default
-nav_order: 2
-parent: Installation
+nav_order: 1
+parent: Getting Started
 ---
 
 <head>
