@@ -20,9 +20,11 @@ nav_order: 4
 <br>
 <b>نصب اسکریپت Hiddify API Expanded:</b>
 <p>قبل از افزودن سرور نیاز است که اسکریپت Hiddify API Expanded را روی سرور خود نصب کنید. لازم به ذکر است تایید سرور توسط ربات و عملیات‌ها وابسته به نصب این اسکریپت می‌باشد، بنابراین نصب آن اجباری می‌باشد.</p>
+<img src="assets/images/add_server/add-server-3.png" class="centered">
+
 <p><b>دستور نصب:</b></p>
 <code>sudo bash -c "$(curl -Lfo- https://raw.githubusercontent.com/B3H1Z/Hiddify-API-Expanded/main/install.sh)"</code>
-<img src="assets/images/add_server/add-server-3.png" class="centered">
+<br>
 <p>پس از وارد کردن دستور در سرور پنل، مقداری صبر کنید تا در نهایت با پیام نصب موفقیت‌آمیز مواجه شوید.</p>
 <img src="assets/images/add_server/add-server-7.png" class="centered">
 <br>
