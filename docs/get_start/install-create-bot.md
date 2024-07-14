@@ -7,7 +7,7 @@ parent: Installation
 
 <head>
     <meta charset="utf-8">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://b3h1z.github.io/HidyBot-Docs/assets/css/style.css">
 </head>
 <div dir="rtl">
 <h3>آموزش ساخت ربات و دریافت توکن</h3>
@@ -25,6 +25,6 @@ parent: Installation
     </li>
 </ul>
 <br>
-<img src="assets/images/installation/installation-bot-1.png" alt="Your Image" class="centered">
+<img src="https://b3h1z.github.io/HidyBot-Docs/assets/images/installation/installation-bot-1.png" alt="Your Image" class="centered">
 </div>
 <p>حالا ربات شما ساخته شده. توکن ربات جدید شما در پیام دریافتی موجود است.</p>

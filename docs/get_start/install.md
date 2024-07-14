@@ -1,5 +1,5 @@
 ---
-title: Installation
+title: Get Start
 layout: default
 nav_order: 2
 has_children: true
@@ -7,7 +7,7 @@ has_children: true
 
 <head>
     <meta charset="utf-8">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://b3h1z.github.io/HidyBot-Docs/assets/css/style.css">
 </head>
 <div dir="rtl">
 
@@ -17,7 +17,7 @@ has_children: true
     <p>ابتدا وارد ربات مدیریت لایسنس شوید و با استفاده از دکمه "خرید ربات"، لایسنس خود را خریداری کنید.</p>
 
     <br>
-    <img src="assets/images/installation/installation-1.png" alt="Your Image" class="centered">
+    <img src="https://b3h1z.github.io/HidyBot-Docs/assets/images/installation/installation-1.png" alt="Your Image" class="centered">
     
     <br>
     <b>راه‌اندازی ربات:</b>
@@ -41,7 +41,7 @@ has_children: true
     </ul>
 
 
-    <img src="assets/images/installation/installation-2.png" alt="Your Image" class="centered">
+    <img src="https://b3h1z.github.io/HidyBot-Docs/assets/images/installation/installation-2.png" alt="Your Image" class="centered">
     <br>
     <b>اتمام عملیات:</b>
     <p>پس از وارد کردن اطلاعات و مشاهده پیام موفقیت‌آمیز بودن عملیات، ربات شما با موفقیت راه‌اندازی شده است.</p>

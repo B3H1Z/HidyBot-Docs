@@ -7,7 +7,7 @@ parent: Installation
 
 <head>
     <meta charset="utf-8">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://b3h1z.github.io/HidyBot-Docs/assets/css/style.css">
 </head>
 <div dir="rtl">
 <h3>آموزش دریافت آیدی عددی</h3>
@@ -18,5 +18,5 @@ parent: Installation
     <li>دستور /start را برای ربات ارسال کنید</li>
 </ul>
 <p>در پیام دریافتی مقدار آیدی عددی شما در مقابل کلمه Id قابل مشاهده میباشد.</p>
-<img src="assets/images/installation/installation-number-id-1.png" alt="Your Image" class="centered">
+<img src="https://b3h1z.github.io/HidyBot-Docs/assets/images/installation/installation-number-id-1.png" alt="Your Image" class="centered">
 </div>
