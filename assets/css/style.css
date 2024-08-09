@@ -34,3 +34,6 @@ p{
 .main-content ul {
 	list-style: disc !important;
 }
+a {
+    text-decoration: none !important;
+  }
