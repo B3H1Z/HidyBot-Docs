@@ -13,15 +13,17 @@
 
 html {
 	font-family: 'Yekan', sans-serif;
+    display: flex;
+    justify-content: center;
 }
 
-@media (min-width: 768px) {
+/* @media (min-width: 768px) {
     html {
         position: absolute;
         left: 50%;
         transform: translateX(-50%);
     }
-}
+} */
 
 a {
     text-decoration: none !important;
