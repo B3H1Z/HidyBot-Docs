@@ -1,6 +1,6 @@
 ---
 title: Important Points about Node-Servers
-layout: default
+layout: minimal
 nav_order: 1
 parent: FAQ
 ---

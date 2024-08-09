@@ -1,6 +1,6 @@
 ---
 title: Getting Started
-layout: default
+layout: minimal
 nav_order: 2
 has_children: true
 ---

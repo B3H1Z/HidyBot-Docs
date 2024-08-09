@@ -1,6 +1,6 @@
 ---
 title: Enable PerfectMoney API
-layout: default
+layout: minimal
 nav_order: 2
 parent: Guide
 ---

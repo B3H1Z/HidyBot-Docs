@@ -1,6 +1,6 @@
 ---
 title: Numbric Id
-layout: default
+layout: minimal
 nav_order: 3
 parent: Getting Started
 ---

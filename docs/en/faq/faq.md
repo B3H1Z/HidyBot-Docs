@@ -1,6 +1,6 @@
 ---
 title: FAQ
-layout: default
+layout: minimal
 nav_order: 4
 has_children: true
 ---

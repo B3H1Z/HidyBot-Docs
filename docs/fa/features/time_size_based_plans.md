@@ -1,6 +1,6 @@
 ---
 title: Volume & Time-based plans
-layout: default
+layout: minimal
 nav_order: 13
 parent: Features
 ---

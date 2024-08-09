@@ -1,6 +1,6 @@
 ---
 title: Unlimited Volume Plans
-layout: default
+layout: minimal
 nav_order: 10
 parent: Features
 ---

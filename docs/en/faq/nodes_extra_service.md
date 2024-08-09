@@ -1,6 +1,6 @@
 ---
 title: Understanding Node-Server Add-On Service
-layout: default
+layout: minimal
 nav_order: 2
 parent: FAQ
 ---

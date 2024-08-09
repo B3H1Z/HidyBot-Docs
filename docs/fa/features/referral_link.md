@@ -1,6 +1,6 @@
 ---
 title: Referral Link
-layout: default
+layout: minimal
 nav_order: 2
 parent: Features
 ---

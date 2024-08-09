@@ -1,6 +1,6 @@
 ---
 title: Discount and Top-up Codes
-layout: default
+layout: minimal
 nav_order: 14
 parent: Features
 ---

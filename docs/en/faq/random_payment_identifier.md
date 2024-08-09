@@ -1,6 +1,6 @@
 ---
 title: Random Payment Identifier
-layout: default
+layout: minimal
 nav_order: 1
 parent: FAQ
 ---

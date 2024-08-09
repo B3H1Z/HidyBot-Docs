@@ -1,6 +1,6 @@
 ---
 title: Tips for Chatting with Customer Support
-layout: default
+layout: minimal
 nav_order: 1
 parent: FAQ
 ---

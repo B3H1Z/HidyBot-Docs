@@ -1,6 +1,6 @@
 ---
 title: Perfect Money Payment
-layout: default
+layout: minimal
 nav_order: 9
 parent: Features
 ---

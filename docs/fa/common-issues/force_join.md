@@ -1,6 +1,6 @@
 ---
 title: Force Join
-layout: default
+layout: minimal
 nav_order: 2
 parent: Common Issues
 ---

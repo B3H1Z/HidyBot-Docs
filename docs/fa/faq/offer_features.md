@@ -1,6 +1,6 @@
 ---
 title: Offer New Features
-layout: default
+layout: minimal
 nav_order: 1
 parent: FAQ
 ---

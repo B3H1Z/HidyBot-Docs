@@ -1,6 +1,6 @@
 ---
 title: Easy setup deep link
-layout: default
+layout: minimal
 nav_order: 16
 parent: Features
 ---

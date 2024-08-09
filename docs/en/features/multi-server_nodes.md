@@ -1,6 +1,6 @@
 ---
 title: Multi-server Nodes
-layout: default
+layout: minimal
 nav_order: 7
 parent: Features
 ---

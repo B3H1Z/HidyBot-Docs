@@ -1,6 +1,6 @@
 ---
 title: Bulk User Actions
-layout: default
+layout: minimal
 nav_order: 3
 parent: Features
 ---

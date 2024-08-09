@@ -1,6 +1,6 @@
 ---
 title: Vouchers and coupons
-layout: default
+layout: minimal
 nav_order: 14
 parent: Features
 ---

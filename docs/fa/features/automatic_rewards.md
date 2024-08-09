@@ -1,6 +1,6 @@
 ---
 title: Automatic Rewards
-layout: default
+layout: minimal
 nav_order: 5
 parent: Features
 ---

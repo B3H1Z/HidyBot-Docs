@@ -1,6 +1,6 @@
 ---
 title: Link Subscriptions
-layout: default
+layout: minimal
 nav_order: 11
 parent: Features
 ---

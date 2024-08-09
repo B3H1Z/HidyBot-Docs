@@ -1,6 +1,6 @@
 ---
 title: Automatic Rewards Examples
-layout: default
+layout: minimal
 nav_order: 1
 parent: Examples
 ---

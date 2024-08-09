@@ -1,6 +1,6 @@
 ---
 title: Invite Gift
-layout: default
+layout: minimal
 nav_order: 6
 parent: Features
 ---

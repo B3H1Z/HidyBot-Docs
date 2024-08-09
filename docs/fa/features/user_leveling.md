@@ -1,6 +1,6 @@
 ---
 title: User Leveling
-layout: default
+layout: minimal
 nav_order: 17
 parent: Features
 ---

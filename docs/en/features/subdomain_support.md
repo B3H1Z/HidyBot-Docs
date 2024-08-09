@@ -1,6 +1,6 @@
 ---
 title: Subdomains
-layout: default
+layout: minimal
 nav_order: 8
 parent: Features
 ---

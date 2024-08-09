@@ -1,6 +1,6 @@
 ---
 title: Advanced Ticketing System
-layout: default
+layout: minimal
 nav_order: 4
 parent: Features
 ---

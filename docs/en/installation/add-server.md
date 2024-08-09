@@ -1,6 +1,6 @@
 ---
 title: Add Server
-layout: default
+layout: minimal
 nav_order: 4
 parent: Getting Started
 ---

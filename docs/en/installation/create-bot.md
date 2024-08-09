@@ -1,6 +1,6 @@
 ---
 title: Create Bot
-layout: default
+layout: minimal
 nav_order: 1
 parent: Getting Started
 ---
