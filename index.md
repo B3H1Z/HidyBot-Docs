@@ -8,7 +8,6 @@ nav_order: 1
     <meta charset="utf-8">
     <link rel="stylesheet" href="https://b3h1z.github.io/HidyBot-Docs/assets/css/style.css">
 </head>
-<div dir="rtl">
 
 
 <p align="center">
@@ -28,6 +27,7 @@ nav_order: 1
 
 ***
 
+<div dir="rtl">
 <ul>
   <li><a href="https://b3h1z.github.io/HidyBot-Docs/docs/installation/install.html">نصب و راه اندازی</a></li>
   <ul>
