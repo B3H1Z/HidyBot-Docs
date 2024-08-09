@@ -16,5 +16,5 @@ parent: Guide
 <br>
 <p>با کلیک روی دکمه زیر PDF آموزشی را دانلود کنید</p>
 <p>
-<a href="https://b3h1z.github.io/HidyBot-Docs/pdf/guide/zarin_voucher_setup.pdf" download>دانلود فایل</a>
+<a href="https://b3h1z.github.io/HidyBot-Docs/assets/pdf/guide/zarin_voucher_setup.pdf" download>دانلود فایل</a>
 </p>

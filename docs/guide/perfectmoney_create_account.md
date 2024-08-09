@@ -15,7 +15,7 @@ parent: Guide
 <br>
 <p>با کلیک روی دکمه زیر PDF آموزشی را دانلود کنید</p>
 <p>
-<a href="https://b3h1z.github.io/HidyBot-Docs/pdf/guide/perfectmoney_create_account.pdf" download>دانلود فایل</a>
+<a href="https://b3h1z.github.io/HidyBot-Docs/assets/pdf/guide/perfectmoney_create_account.pdf" download>دانلود فایل</a>
 </p>
 <br>
 <p>نکات مهم:</p>
@@ -26,5 +26,4 @@ parent: Guide
         <p><a href="https://prepostseo.com/tool/fake-address-generator" download>prepostseo</a></p>
     </li>
 </ul>
-</p>
 </div>

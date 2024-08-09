@@ -16,5 +16,5 @@ parent: Guide
 <img src="https://b3h1z.github.io/HidyBot-Docs/assets/images/guide/perfectmoney_enable_api/PM-API-1.jpg" class="centered">
 <img src="https://b3h1z.github.io/HidyBot-Docs/assets/images/guide/perfectmoney_enable_api/PM-API-2.jpg" class="centered">
 <img src="https://b3h1z.github.io/HidyBot-Docs/assets/images/guide/perfectmoney_enable_api/PM-API-3.jpg" class="centered">
-<img src="https://b3h1z.github.io/HidyBot-Docs/assets/images/guide/perfectmoney_enable_api/PM-API-4.jpg" class="centered">
-<img src="https://b3h1z.github.io/HidyBot-Docs/assets/images/guide/perfectmoney_enable_api/PM-API-5.jpg" class="centered">
+<img src="https://b3h1z.github.io/HidyBot-Docs/assets/images/guide/perfectmoney_enable_api/PM-API-4.png" class="centered">
+<img src="https://b3h1z.github.io/HidyBot-Docs/assets/images/guide/perfectmoney_enable_api/PM-API-5.png" class="centered">
