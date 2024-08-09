@@ -1,5 +1,5 @@
 ---
-title: Common Issues
+title: Force Join
 layout: default
 nav_order: 2
 parent: Common Issues
