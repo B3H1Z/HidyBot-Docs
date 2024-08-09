@@ -22,7 +22,7 @@ parent: Guide
 <br>
 <br>
 <p>مرحله 2</p>
-<p>از این بخش API Key خود را ایجاد کرده و آن را کپی کنید و در ربات تنظیم کنید>
+<p>از این بخش API Key خود را ایجاد کرده و آن را کپی کنید و در ربات تنظیم کنید</p>
 <img src="https://b3h1z.github.io/HidyBot-Docs/assets/images/guide/NowPayments/NowPayments-3.png" class="centered">
 <br>
 <img src="https://b3h1z.github.io/HidyBot-Docs/assets/images/guide/NowPayments/NowPayments-3.png" class="centered">
