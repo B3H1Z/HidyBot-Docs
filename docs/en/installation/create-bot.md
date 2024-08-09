@@ -12,7 +12,7 @@ parent: Getting Started
 <div>
 <h3>How to Create a Bot and Obtain Its Token</h3>
 <br>
-<b>To create a bot and obtain its token, you need to use the <a href="https://t.me/BotFather" target="_blank">BotFather</a> bot.</b>
+<b>To create a bot and obtain its token, you need to use the <a href="https://t.me/BotFather" >BotFather</a> bot.</b>
 <ul>
     <li>Send the /start command</li>
     <li>Enter the /newbot command</li>

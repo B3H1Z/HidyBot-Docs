@@ -13,7 +13,7 @@ has_children: true
 <h3>To set up and manage your Telegram bot using the purchased license, follow these steps:</h3>
 <br>
 <b>Purchase License:</b>
-<p>First, enter the <a href="https://t.me/HidyPro_bot" target="_blank">license management bot</a> and use the "Buy Bot" button to purchase your license.</p>
+<p>First, enter the <a href="https://t.me/HidyPro_bot" >license management bot</a> and use the "Buy Bot" button to purchase your license.</p>
 
 <br>
 <img src="https://b3h1z.github.io/HidyBot-Docs/assets/images/installation/installation-1.png" alt="License Purchase" class="centered">

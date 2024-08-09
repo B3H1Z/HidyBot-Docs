@@ -12,7 +12,7 @@ parent: Getting Started
 <div>
 <h3>How to Obtain Numeric ID</h3>
 <br>
-<b>To obtain your numeric ID, you need to use the <a href="https://t.me/userinfobot" target="_blank">userinfobot</a></b>
+<b>To obtain your numeric ID, you need to use the <a href="https://t.me/userinfobot" >userinfobot</a></b>
 <ul>
     <li>Send the /start command to the bot</li>
 </ul>
