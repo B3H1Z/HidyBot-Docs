@@ -8,6 +8,7 @@ parent: Features
 <head>
     <meta charset="utf-8">
     <link rel="stylesheet" href="https://b3h1z.github.io/HidyBot-Docs/assets/css/style.css">
+    <link rel="icon" href="https://b3h1z.github.io/HidyBot-Docs/favicon.ico" type="image/x-icon">
 </head>
 <div dir="rtl">
 <h3>معرفی دسته‌بندی پلن‌های فروش در هیدی بات</h3>

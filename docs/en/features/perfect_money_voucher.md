@@ -8,6 +8,7 @@ parent: Features
 <head>
     <meta charset="utf-8">
     <link rel="stylesheet" href="https://b3h1z.github.io/HidyBot-Docs/assets/css/en-style.css">
+    <link rel="icon" href="https://b3h1z.github.io/HidyBot-Docs/favicon.ico" type="image/x-icon">
 </head>
 <div>
 <h3>Introducing Perfect Money Voucher Support in HidyBot</h3>

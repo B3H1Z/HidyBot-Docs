@@ -8,13 +8,12 @@ nav_order: 1
     <meta charset="utf-8">
     <link rel="stylesheet" href="https://b3h1z.github.io/HidyBot-Docs/assets/css/style.css">
     <link rel="icon" href="https://b3h1z.github.io/HidyBot-Docs/favicon.ico" type="image/x-icon">
-
 </head>
 
 
 <p align="center">
   <a href="https://b3h1z.github.io/HidyBot-Docs/"  rel="noopener noreferrer">
-    <img width="200" height="200" src="https://b3h1z.github.io/HidyBot-Docs/assets/images/icon.png" alt="Hidy Bot">
+    <img width="200" height="200" src="https://b3h1z.github.io/HidyBot-Docs/assets/images/hidybot.png" alt="Hidy Bot">
   </a>
 </p>
 <h1 style="text-align: center;">

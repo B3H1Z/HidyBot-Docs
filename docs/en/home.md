@@ -7,6 +7,7 @@ nav_order: 1
 <head>
     <meta charset="utf-8">
     <link rel="stylesheet" href="https://b3h1z.github.io/HidyBot-Docs/assets/css/en-style.css">
+    <link rel="icon" href="https://b3h1z.github.io/HidyBot-Docs/favicon.ico" type="image/x-icon">
 </head>
 
 <p align="center">
