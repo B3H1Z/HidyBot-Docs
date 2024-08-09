@@ -42,7 +42,7 @@ nav_order: 1
     <li><a href="https://b3h1z.github.io/HidyBot-Docs/docs/fa/guide/perfectmoney_create_account.html" >ساخت اکانت پرفکت مانی</a></li>
     <li><a href="https://b3h1z.github.io/HidyBot-Docs/docs/fa/guide/perfectmoney_enable_api.html" >فعالسازی API پرفکت مانی</a></li>
     <li><a href="https://b3h1z.github.io/HidyBot-Docs/docs/fa/guide/zarin_add_product.html" >تنظیم شیوه پرداخت زرین</a></li>
-    <li><a href="https://b3h1z.github.io/HidyBot-Docs/docs/fa/guide/nowpayments_setup_api.md" >درگاه رمز ارز NowPayments</a></li>
+    <li><a href="https://b3h1z.github.io/HidyBot-Docs/docs/fa/guide/nowpayments_setup_api.html" >درگاه رمز ارز NowPayments</a></li>
   </ul>
 <br>
   <li><a href="">سوالات متداول</a></li>
