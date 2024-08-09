@@ -13,6 +13,8 @@
 
 html {
 	font-family: 'Yekan', sans-serif;
+	display: flex;
+    justify-content: center;
 }
 
 .centered {
