@@ -7,12 +7,13 @@ nav_order: 1
 <head>
     <meta charset="utf-8">
     <link rel="stylesheet" href="https://b3h1z.github.io/HidyBot-Docs/assets/css/style.css">
+    <link rel="icon" href="https://b3h1z.github.io/HidyBot-Docs/assets/images/icon.png" type="image/png">
 </head>
 
 
 <p align="center">
   <a href="https://b3h1z.github.io/HidyBot-Docs/"  rel="noopener noreferrer">
-    <img width="200" height="200" src="https://github.com/B3H1Z/Hiddify-Telegram-Bot/blob/main/Screenshots/icon.png?raw=True" alt="Hidy Bot">
+    <img width="200" height="200" src="https://b3h1z.github.io/HidyBot-Docs/assets/images/icon.png" alt="Hidy Bot">
   </a>
 </p>
 <h1 style="text-align: center;">
