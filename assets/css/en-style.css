@@ -13,9 +13,14 @@
 
 html {
 	font-family: 'Yekan', sans-serif;
-    position: absolute;
-    left: 50%;
-    transform: translateX(-50%);
+}
+
+@media (min-width: 768px) {
+    html {
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+    }
 }
 
 a {
