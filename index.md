@@ -19,7 +19,7 @@ nav_order: 1
 هیدی بات | HidyBot
 </h1>
 <p align="center">
-  <a href="https://b3h1z.github.io/HidyBot-Docs/en/home.html" target="_blank">English</a> |
+  <a href="https://b3h1z.github.io/HidyBot-Docs/docs/en/home.html" target="_blank">English</a> |
   <a href="https://b3h1z.github.io/HidyBot-Docs/">فارسی</a>
 <br>
   <a href="https://t.me/HidyBotGroup">Telegram Group</a>
