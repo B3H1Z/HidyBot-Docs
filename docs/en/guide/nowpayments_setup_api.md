@@ -9,8 +9,7 @@ parent: Guide
     <link rel="stylesheet" href="https://b3h1z.github.io/HidyBot-Docs/assets/en-css/style.css">
     <link rel="icon" href="https://b3h1z.github.io/HidyBot-Docs/favicon.ico" type="image/x-icon">
 </head>
-<div dir="rtl">
-
+<div>
 <h3>NowPayments Cryptocurrency Gateway</h3>
 <br>
 <br>
