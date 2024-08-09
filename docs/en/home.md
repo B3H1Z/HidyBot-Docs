@@ -45,12 +45,12 @@ HidyBot
 <br>
   <li><a href="">FAQs</a></li>
   <ul>
-    <li><a href="https://b3h1z.github.io/HidyBot-Docs/docs/en/faq/customer-support-tips.html" >Renewal Modes</a></li>
-    <li><a href="https://b3h1z.github.io/HidyBot-Docs/docs/en/faq/node-server_tips.html" >Node Services</a></li>
-    <li><a href="https://b3h1z.github.io/HidyBot-Docs/docs/en/faq/offer_features.html" >Node Tips</a></li>
+    <li><a href="https://b3h1z.github.io/HidyBot-Docs/docs/en/faq/renewal_types.html" >Renewal Modes</a></li>
+    <li><a href="https://b3h1z.github.io/HidyBot-Docs/docs/en/faq/nodes_extra_service.html" >Node Services</a></li>
+    <li><a href="https://b3h1z.github.io/HidyBot-Docs/docs/en/faq/node-server_tips.html" >Node Tips</a></li>
     <li><a href="https://b3h1z.github.io/HidyBot-Docs/docs/en/faq/random_payment_identifier.html" >Random Payment Identifier</a></li>
-    <li><a href="https://b3h1z.github.io/HidyBot-Docs/docs/en/faq/renewal_types.html" >Talk to Support</a></li>
-    <li><a href="https://b3h1z.github.io/HidyBot-Docs/docs/en/faq/nodes_extra_service.html" >Feature Suggestions</a></li>
+    <li><a href="https://b3h1z.github.io/HidyBot-Docs/docs/en/faq/customer-support-tips.html" >Talk to Support</a></li>
+    <li><a href="https://b3h1z.github.io/HidyBot-Docs/docs/en/faq/offer_features.html" >Feature Suggestions</a></li>
   </ul>
 <br>
   <li><a href="">Common Issues</a></li>

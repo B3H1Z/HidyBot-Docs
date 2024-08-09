@@ -47,12 +47,12 @@ nav_order: 1
 <br>
   <li><a href="">سوالات متداول</a></li>
   <ul>
-    <li><a href="https://b3h1z.github.io/HidyBot-Docs/docs/fa/faq/customer-support-tips.html" >حالت های تمدید</a></li>
-    <li><a href="https://b3h1z.github.io/HidyBot-Docs/docs/fa/faq/node-server_tips.html" >خدمات نودسازی</a></li>
-    <li><a href="https://b3h1z.github.io/HidyBot-Docs/docs/fa/faq/offer_features.html" >نکات نودسازی</a></li>
+    <li><a href="https://b3h1z.github.io/HidyBot-Docs/docs/fa/faq/renewal_types.html" >حالت های تمدید</a></li>
+    <li><a href="https://b3h1z.github.io/HidyBot-Docs/docs/fa/faq/nodes_extra_service.html" >خدمات نودسازی</a></li>
+    <li><a href="https://b3h1z.github.io/HidyBot-Docs/docs/fa/faq/node-server_tips.html" >نکات نودسازی</a></li>
     <li><a href="https://b3h1z.github.io/HidyBot-Docs/docs/fa/faq/random_payment_identifier.html" >مشخصه تصادفی پرداخت</a></li>
-    <li><a href="https://b3h1z.github.io/HidyBot-Docs/docs/fa/faq/renewal_types.html" >گفتوگو با پشتیبانی</a></li>
-    <li><a href="https://b3h1z.github.io/HidyBot-Docs/docs/fa/faq/nodes_extra_service.html" >پیشنهاد ویژگی</a></li>
+    <li><a href="https://b3h1z.github.io/HidyBot-Docs/docs/fa/faq/customer-support-tips.html" >گفتوگو با پشتیبانی</a></li>
+    <li><a href="https://b3h1z.github.io/HidyBot-Docs/docs/fa/faq/offer_features.html" >پیشنهاد ویژگی</a></li>
   </ul>
 <br>
   <li><a href="">مشکلات رایج</a></li>
