@@ -7,9 +7,9 @@ parent: Common Issues
 
 <head>
     <meta charset="utf-8">
-    <link rel="stylesheet" href="https://b3h1z.github.io/HidyBot-Docs/assets/css/style.css">
+    <link rel="stylesheet" href="https://b3h1z.github.io/HidyBot-Docs/assets/css/en-style.css">
 </head>
-<div dir="rtl">
+<div>
 <h3>Force Join</h3>
 <br>
 <ul>

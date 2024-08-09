@@ -7,9 +7,9 @@ parent: Features
 
 <head>
     <meta charset="utf-8">
-    <link rel="stylesheet" href="https://b3h1z.github.io/HidyBot-Docs/assets/css/style.css">
+    <link rel="stylesheet" href="https://b3h1z.github.io/HidyBot-Docs/assets/css/en-style.css">
 </head>
-<div dir="rtl">
+<div>
 <h3>Introducing Node Management with HidyBot</h3>
 <br>
 <p>HidyBot offers you the capability to manage nodes. This feature allows you to connect your panels, synchronizing user data consumption across all servers.</p>

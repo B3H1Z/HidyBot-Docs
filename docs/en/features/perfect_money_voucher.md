@@ -7,9 +7,9 @@ parent: Features
 
 <head>
     <meta charset="utf-8">
-    <link rel="stylesheet" href="https://b3h1z.github.io/HidyBot-Docs/assets/css/style.css">
+    <link rel="stylesheet" href="https://b3h1z.github.io/HidyBot-Docs/assets/css/en-style.css">
 </head>
-<div dir="rtl">
+<div>
 <h3>Introducing Perfect Money Voucher Support in HidyBot</h3>
 <br>
 <p>With a Perfect Money account, you can accept Perfect Money vouchers to top up users' wallets. This payment method is one of the most convenient and low-fee options available, and many sites sell Perfect Money vouchers without requiring authentication.</p>

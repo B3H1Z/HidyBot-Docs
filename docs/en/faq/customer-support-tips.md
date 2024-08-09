@@ -7,9 +7,9 @@ parent: FAQ
 
 <head>
     <meta charset="utf-8">
-    <link rel="stylesheet" href="https://b3h1z.github.io/HidyBot-Docs/assets/css/style.css">
+    <link rel="stylesheet" href="https://b3h1z.github.io/HidyBot-Docs/assets/css/en-style.css">
 </head>
-<div dir="rtl">
+<div>
 <h2>Chatting with Support</h2>
 <ul>
     <li>Please note that the support response time is from 10 AM to 8 PM, Sunday to Thursday. [Except for special and sensitive cases]</li>

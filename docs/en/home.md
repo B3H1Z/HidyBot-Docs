@@ -6,7 +6,7 @@ nav_order: 1
 
 <head>
     <meta charset="utf-8">
-    <link rel="stylesheet" href="https://b3h1z.github.io/HidyBot-Docs/assets/css/style.css">
+    <link rel="stylesheet" href="https://b3h1z.github.io/HidyBot-Docs/assets/css/en-style.css">
 </head>
 
 <p align="center">
@@ -26,7 +26,7 @@ HidyBot
 
 ***
 
-<div dir="rtl">
+<div>
 <ul>
   <li><a href="https://b3h1z.github.io/HidyBot-Docs/docs/fa/installation/install.html">Installation and Setup</a></li>
   <ul>

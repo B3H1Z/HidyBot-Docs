@@ -7,9 +7,9 @@ parent: FAQ
 
 <head>
     <meta charset="utf-8">
-    <link rel="stylesheet" href="https://b3h1z.github.io/HidyBot-Docs/assets/css/style.css">
+    <link rel="stylesheet" href="https://b3h1z.github.io/HidyBot-Docs/assets/css/en-style.css">
 </head>
-<div dir="rtl">
+<div>
 <h3>Renewal Types</h3>
 <br>
 <b>Advanced Renewal:</b>

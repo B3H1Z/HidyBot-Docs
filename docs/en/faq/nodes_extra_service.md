@@ -7,9 +7,9 @@ parent: FAQ
 
 <head>
     <meta charset="utf-8">
-    <link rel="stylesheet" href="https://b3h1z.github.io/HidyBot-Docs/assets/css/style.css">
+    <link rel="stylesheet" href="https://b3h1z.github.io/HidyBot-Docs/assets/css/en-style.css">
 </head>
-<div dir="rtl">
+<div>
 <h2>What is Node-Server Add-On Service?</h2>
 <p>Node-adding servers consume a high amount of resources for the bot, requiring us to allocate additional resources to your bot. This is because every few minutes, all users must be synchronized across all nodes.</p>
 <h3>Important Points:</h3>

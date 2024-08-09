@@ -7,9 +7,9 @@ parent: Features
 
 <head>
     <meta charset="utf-8">
-    <link rel="stylesheet" href="https://b3h1z.github.io/HidyBot-Docs/assets/css/style.css">
+    <link rel="stylesheet" href="https://b3h1z.github.io/HidyBot-Docs/assets/css/en-style.css">
 </head>
-<div dir="rtl">
+<div>
 <h3>Support for Subdomains in HidyBot</h3>
 <br>
 <p>By adding a subdomain, that domain can be used to display user subscriptions. If multiple domains are added, a list of domains will be shown to the user, allowing them to select their preferred domain and receive a subscription link tailored to that domain.</p>

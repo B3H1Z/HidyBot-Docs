@@ -7,9 +7,9 @@ parent: FAQ
 
 <head>
     <meta charset="utf-8">
-    <link rel="stylesheet" href="https://b3h1z.github.io/HidyBot-Docs/assets/css/style.css">
+    <link rel="stylesheet" href="https://b3h1z.github.io/HidyBot-Docs/assets/css/en-style.css">
 </head>
-<div dir="rtl">
+<div>
 <h2>How to Suggest a New Feature</h2>
 <p>Before purchasing, users can view the additional features of the Pro version compared to the standard version using the "Features" button in the license management bot. Additionally, all users have had a free trial period before purchase.</p>
 <h3>Hidy Bot Pro is only responsible for the features promised at the time of purchase.</h3>

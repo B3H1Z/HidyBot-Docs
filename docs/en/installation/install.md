@@ -7,9 +7,9 @@ has_children: true
 
 <head>
     <meta charset="utf-8">
-    <link rel="stylesheet" href="https://b3h1z.github.io/HidyBot-Docs/assets/css/style.css">
+    <link rel="stylesheet" href="https://b3h1z.github.io/HidyBot-Docs/assets/css/en-style.css">
 </head>
-<div dir="rtl">
+<div>
 <h3>To set up and manage your Telegram bot using the purchased license, follow these steps:</h3>
 <br>
 <b>Purchase License:</b>

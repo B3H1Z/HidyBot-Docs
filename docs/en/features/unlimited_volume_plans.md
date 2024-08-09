@@ -7,9 +7,9 @@ parent: Features
 
 <head>
     <meta charset="utf-8">
-    <link rel="stylesheet" href="https://b3h1z.github.io/HidyBot-Docs/assets/css/style.css">
+    <link rel="stylesheet" href="https://b3h1z.github.io/HidyBot-Docs/assets/css/en-style.css">
 </head>
-<div dir="rtl">
+<div>
 <h3>Defining Unlimited Volume Plans in HidyBot</h3>
 <br>
 <p>With HidyBot, you can define and sell unlimited volume plans so that the plan appears as unlimited to users as well.</p>

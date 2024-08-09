@@ -7,9 +7,9 @@ parent: FAQ
 
 <head>
     <meta charset="utf-8">
-    <link rel="stylesheet" href="https://b3h1z.github.io/HidyBot-Docs/assets/css/style.css">
+    <link rel="stylesheet" href="https://b3h1z.github.io/HidyBot-Docs/assets/css/en-style.css">
 </head>
-<div dir="rtl">
+<div>
 <h2>Important Points Regarding Node Setup</h2>
 <ul>
     <li>Never place the node link or the main server link on a domain with proxy settings enabled. Cloudflare interruptions can disrupt the node update process.</li>

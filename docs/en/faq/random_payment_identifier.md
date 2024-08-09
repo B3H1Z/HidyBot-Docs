@@ -7,9 +7,9 @@ parent: FAQ
 
 <head>
     <meta charset="utf-8">
-    <link rel="stylesheet" href="https://b3h1z.github.io/HidyBot-Docs/assets/css/style.css">
+    <link rel="stylesheet" href="https://b3h1z.github.io/HidyBot-Docs/assets/css/en-style.css">
 </head>
-<div dir="rtl">
+<div>
 <h2>Random Payment Identifier</h2>
 <p>Why is a small amount added to the order total during payment?</p>
 <p>This is done to distinguish transactions. For example, if two people make a payment of 50,000 Toman simultaneously, and there is a suspicion about one of them, this feature can help differentiate between them.</p>

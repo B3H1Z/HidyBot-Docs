@@ -7,9 +7,9 @@ parent: Examples
 
 <head>
     <meta charset="utf-8">
-    <link rel="stylesheet" href="https://b3h1z.github.io/HidyBot-Docs/assets/css/style.css">
+    <link rel="stylesheet" href="https://b3h1z.github.io/HidyBot-Docs/assets/css/en-style.css">
 </head>
-<div dir="rtl">
+<div>
 <h2>Smart Rewards Examples</h2>
 <h3>Example 1: Encouraging Subscription Renewal</h3>
 <p>Target Action: Subscription Renewal</p>

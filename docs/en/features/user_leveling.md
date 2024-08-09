@@ -7,9 +7,9 @@ parent: Features
 
 <head>
     <meta charset="utf-8">
-    <link rel="stylesheet" href="https://b3h1z.github.io/HidyBot-Docs/assets/css/style.css">
+    <link rel="stylesheet" href="https://b3h1z.github.io/HidyBot-Docs/assets/css/en-style.css">
 </head>
-<div dir="rtl">
+<div>
 <h2>Introducing User Leveling in HidyBot</h2>
 <p>Admins can define multiple levels for each action (subscription renewal, new subscription purchase, wallet top-up, and orders from referred users). Each level can have its own conditions and rewards, which are granted to users who meet these conditions.</p>
 <h3>For each level, admins can:</h3>
