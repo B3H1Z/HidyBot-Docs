@@ -40,7 +40,7 @@ HidyBot
   <ul>
     <li><a href="https://b3h1z.github.io/HidyBot-Docs/docs/en/guide/perfectmoney_create_account.html" >Create Perfect Money Account</a></li>
     <li><a href="https://b3h1z.github.io/HidyBot-Docs/docs/en/guide/perfectmoney_enable_api.html" >Enable Perfect Money API</a></li>
-    <li><a href="https://b3h1z.github.io/HidyBot-Docs/docs/en/guide/zarin_add_product.html" >Set Up Zarin Payment Method</a></li>
+    <li><a href="https://b3h1z.github.io/HidyBot-Docs/docs/en/guide/nowpayments_setup_api.html" >NowPayments Cryptocurrency Gateway</a></li>
   </ul>
 <br>
   <li><a href="">FAQs</a></li>
