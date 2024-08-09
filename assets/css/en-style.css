@@ -18,3 +18,45 @@ html {
 a {
     text-decoration: none !important;
   }
+
+.center-block {
+    width: 50%; /* Or any width you need */
+    margin: 0 auto;
+}
+
+.center-inline-container {
+    text-align: center;
+}
+
+.center-inline-container img {
+    display: inline-block;
+}
+
+.center-inline-container {
+    text-align: center;
+}
+
+.center-inline-container img {
+    display: inline-block;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+}
+
+.grid-container {
+    display: grid;
+    justify-content: center;
+}
+
+
+.absolute-center-container {
+    position: relative;
+}
+
+.absolute-center {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
