@@ -13,6 +13,9 @@
 
 html {
 	font-family: 'Yekan', sans-serif;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
 }
 
 a {
