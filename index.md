@@ -35,14 +35,14 @@ nav_order: 1
     <li><a href="https://b3h1z.github.io/HidyBot-Docs/docs/installation/numberic-id.html">دریافت آیدی عددی</a></li>
     <li><a href="https://b3h1z.github.io/HidyBot-Docs/docs/installation/add-server.html">افزودن سرور</a></li>
   </ul>
-
-  <li><a href="l">راهنما</a></li>
+<br>
+  <li><a href="">راهنما</a></li>
   <ul>
     <li><a href="https://b3h1z.github.io/HidyBot-Docs/docs/guide/perfectmoney_create_account.html">ساخت اکانت پرفکت مانی</a></li>
     <li><a href="https://b3h1z.github.io/HidyBot-Docs/docs/guide/perfectmoney_enable_api.html">فعالسازی API پرفکت مانی</a></li>
     <li><a href="https://b3h1z.github.io/HidyBot-Docs/docs/guide/zarin_add_product.html">تنظیم شیوه پرداخت زرین</a></li>
   </ul>
-
+<br>
   <li><a href="">سوالات متداول</a></li>
   <ul>
     <li><a href="https://b3h1z.github.io/HidyBot-Docs/docs/faq/customer-support-tips.html">حالت های تمدید</a></li>
@@ -52,20 +52,17 @@ nav_order: 1
     <li><a href="https://b3h1z.github.io/HidyBot-Docs/docs/faq/renewal_types.html">گفتوگو با پشتیبانی</a></li>
     <li><a href="https://b3h1z.github.io/HidyBot-Docs/docs/faq/nodes_extra_service.html">پیشنهاد ویژگی</a></li>
   </ul>
-
-
-
-
+<br>
   <li><a href="">مشکلات رایج</a></li>
   <ul>
     <li><a href="https://b3h1z.github.io/HidyBot-Docs/docs/common-issues/force_join.html">عضویت اجباری</a></li>
   </ul>
-
-  <li><a href=""></a>نمونه ها</li>
+<br>
+  <li><a href="">نمونه ها</a></li>
   <ul>
     <li><a href="https://b3h1z.github.io/HidyBot-Docs/docs/examples/automatic_rewards.html">تنظیم مقادیر هدایای هوشمند</a></li>
   </ul>
-
+<br>
   <li><a href="">ویژگی ها</a></li>
   <ul>
     <li><a href="https://b3h1z.github.io/HidyBot-Docs/docs/features/referral_link.html">رفرال گیری</a></li>
@@ -85,6 +82,5 @@ nav_order: 1
     <li><a href="https://b3h1z.github.io/HidyBot-Docs/docs/features/deep_link.html">دیپ لینک</a></li>
     <li><a href="https://b3h1z.github.io/HidyBot-Docs/docs/features/user_leveling.html">سطح بندی کاربران</a></li>
   </ul>
-
 </ul>
 </div>

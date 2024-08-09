@@ -14,8 +14,8 @@ has_children: true
     <h3>برای راه‌اندازی و مدیریت ربات تلگرام با استفاده از لایسنس خریداری شده، مراحل زیر را دنبال کنید</h3>
     <br>
     <b>خرید لایسنس:</b>
-    <p>ابتدا وارد ربات مدیریت لایسنس شوید و با استفاده از دکمه "خرید ربات"، لایسنس خود را خریداری کنید.</p>
-
+    <p>ابتدا وارد <a href="https://t.me/HidyPro_bot" target="_blank">ربات مدیریت لایسنس</a> شوید و با استفاده از دکمه "خرید ربات"، لایسنس خود را خریداری کنید.</p>
+    
     <br>
     <img src="https://b3h1z.github.io/HidyBot-Docs/assets/images/installation/installation-1.png" alt="Your Image" class="centered">
     

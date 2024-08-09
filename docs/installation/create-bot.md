@@ -12,7 +12,7 @@ parent: Getting Started
 <div dir="rtl">
 <h3>آموزش ساخت ربات و دریافت توکن</h3>
 <br>
-<b>جهت ساخت ربات و دریافت توکن آن بایستی از طریق ربات BotFather اقدام کنید</b>
+<b>جهت ساخت ربات و دریافت توکن آن بایستی از طریق ربات <a href="https://t.me/BotFather" target="_blank">BotFather</a> اقدام کنید</b>
 
 <ul>
     <li>دستور /start را ارسال کنید</li>

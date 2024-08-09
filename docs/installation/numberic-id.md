@@ -12,7 +12,7 @@ parent: Getting Started
 <div dir="rtl">
 <h3>آموزش دریافت آیدی عددی</h3>
 <br>
-<b>جهت دریافت آیدی عددی آن بایستی از طریق ربات userinfobot اقدام کنید</b>
+<b>جهت دریافت آیدی عددی آن بایستی از طریق ربات <a href="https://t.me/userinfobot" target="_blank">userinfobot</a> اقدام کنید</b>
 
 <ul>
     <li>دستور /start را برای ربات ارسال کنید</li>
