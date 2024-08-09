@@ -25,13 +25,12 @@ nav_order: 1
 <br>
   <a href="https://t.me/HidyBotGroup">Telegram Group</a>
 </p>
+
 ***
 
 <ul>
-  <li><a href="https://b3h1z.github.io/HidyBot-Docs/">نصب و راه اندازی</a></li>
+  <li><a href="https://b3h1z.github.io/HidyBot-Docs/docs/installation/install.html">نصب و راه اندازی</a></li>
   <ul>
-  <li><a href="https://b3h1z.github.io/HidyBot-Docs/">ساخت ربات تلگرامی/a></li>
+    <li><a href="https://b3h1z.github.io/HidyBot-Docs/docs/installation/create-bot.html">ساخت ربات تلگرامی</a></li>
   </ul>
-</ul>
-
 </div>
